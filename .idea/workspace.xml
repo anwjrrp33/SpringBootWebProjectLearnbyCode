@@ -4,20 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="670e9453-37a3-44ef-88ba-7b4d742621c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/org.zerock.ex1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/org.zerock.ex1.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/org.zerock.ex1.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="a4150202-d5ca-4ecb-9251-f5d7ad6211cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/org.zerock.ex1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/org.zerock.ex1.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/org.zerock.ex1.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02/src/main/java/org/zerock/ex1/Ex1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/src/main/java/org/zerock/ex02/Ex02Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02/src/main/java/org/zerock/ex1/controller/SampleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/src/main/java/org/zerock/ex02/controller/SampleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02/src/main/java/org/zerock/ex1/entity/Memo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/src/main/java/org/zerock/ex02/entity/Memo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02/src/main/java/org/zerock/ex1/repository/MemoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/src/main/java/org/zerock/ex02/repository/MemoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02/src/test/java/org/zerock/ex1/Ex1ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/src/test/java/org/zerock/ex02/Ex02ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02/src/test/java/org/zerock/ex1/repository/MemoRepositoryTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex02/src/test/java/org/zerock/ex02/repository/MemoRepositoryTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/src/main/java/com/anwjrrp33/ex01/Ex01Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/src/main/java/com/anwjrrp33/ex01/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/src/main/java/org/zerock/ex1/Ex1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/src/main/java/org/zerock/ex1/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/src/test/java/org/zerock/ex1/Ex1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,15 +34,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/ex01">
-      <ProjectState />
-    </projectState>
-    <projectState path="$PROJECT_DIR$/ex02">
-      <ProjectState />
-    </projectState>
-    <projectState path="$PROJECT_DIR$/ex03">
-      <ProjectState />
-    </projectState>
     <projectState path="$PROJECT_DIR$/guestbook">
       <ProjectState />
     </projectState>
@@ -41,28 +41,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$/ex02">
-          <activation />
-        </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ex02" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ex02" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ex02" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -70,20 +51,17 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ex02" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1nZ9jJqQpVbQTBhUU7pm6EDuyXi" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1nZAyqep4PBMeedehAnXyEHGq4Z" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="12" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/guestbook" />
   </component>
   <component name="RunManager">
@@ -98,57 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex02 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/ex02" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Gradle.ex02 [build]" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="670e9453-37a3-44ef-88ba-7b4d742621c8" name="Default Changelist" comment="" />
-      <created>1611586881217</created>
+      <changelist id="a4150202-d5ca-4ecb-9251-f5d7ad6211cb" name="Default Changelist" comment="" />
+      <created>1611587498758</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611586881217</updated>
-      <workItem from="1611586882847" duration="372000" />
+      <updated>1611587498758</updated>
+      <workItem from="1611587500952" duration="69000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
